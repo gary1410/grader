@@ -1,0 +1,13 @@
+Thui Bhu A
+Ariana B. Smith A
+Emily Gonzales B
+Jennifer L B
+Maria Jones D
+Bill Gates F
+Escobar Morris C
+Anne Latner B
+
+					Q1	Q2	Q3	Q4	Q5	Q6	Q7
+Averages:	82	80	82	83	81	84	78
+Min:			60	54	38	62	62	60	50
+Max:			100	90	100	100	99	100	95

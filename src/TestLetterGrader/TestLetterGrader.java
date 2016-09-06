@@ -6,6 +6,7 @@ public class TestLetterGrader {
         lg.readScore();
         lg.calcLetterGrade();
         lg.printGrade();
-//        lg.displayAverages();
+        lg.displayAverages();
+        lg.cleanUp();
     }
 }

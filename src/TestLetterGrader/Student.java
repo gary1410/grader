@@ -82,4 +82,7 @@ public class Student {
 //		return averageMidterm;
 //	}
 
+    public int scoreFromQuizAtIndex(int index) {
+		return this.scores.get(index);
+	}
 }
